@@ -68,7 +68,12 @@ int total, n;
 
 *Note: * Casting a floating-point number to an integer simply truncate the number (rounds down)
 
+## Final Variables 
+A *final variable* or *user-defined constant*, udentified by the keyword `final`, is a quantity whose value will not change. 
+`final double TAX_RATE = 0.08;`
 
+- Constant identifiers are, by convention, capitalized
+- `final` variable can be declared without initializing immediately
 
 
 
